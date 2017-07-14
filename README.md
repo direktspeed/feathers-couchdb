@@ -1,6 +1,8 @@
 feathers-coucdb
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/feathers-couchdb.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/lontongcorp/feathers-couchdb.png?branch=master)](https://travis-ci.org/lontongcorp/feathers-couchdb)
 
 > CouchDB CRUD service for [FeathersJS](http://feathersjs.com) using [cradle](https://github.com/flatiron/cradle)
